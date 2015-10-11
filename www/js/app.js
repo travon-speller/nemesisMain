@@ -88,11 +88,11 @@ angular.module('starter', ['ionic', 'starter.controllers'])
                 }
             }
         })
-    .state('app.NemesisPage', {
-        url: "/NemesisOage",
+    .state('app.NemisisPage', {
+        url: "/NemisisPage",
         views: {
             'menuContent': {
-                templateUrl: "templates/NemesisPage.html",
+                templateUrl: "templates/NemisisPage.html",
                 controller: "mainctrl"
             }
         }
