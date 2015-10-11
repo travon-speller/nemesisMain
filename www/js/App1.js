@@ -7,15 +7,15 @@ angular.module('nemesis', ['angurlar-carousel'])
     var images = [
 		{	
 		    name: "Tom",
-		    photo: "http://placehold.it/350x149"
+		    photo: 'foot.jpg'
 		},
 		{
 		    name: "Jim",
-		    photo: 'http://placehold.it/350x148'
+		    photo: 'ionic.png'
 		},
 		{
 		    name:"Chris",
-		    photo: "http://placehold.it/350x147"
+		    photo: "foot.jpg"
 		}
     ]
 
