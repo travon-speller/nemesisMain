@@ -1,0 +1,11 @@
+/* Empty. Add your own CSS if you like */
+.center-block {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.large-icon {
+  font-size: 48px;
+  text-align: center;
+}

@@ -1,0 +1,14 @@
+{
+    "org.apache.cordova.console": {
+        "source": {
+            "type": "local",
+            "path": "/var/folders/3j/djb2_39d16z5t89xbf37vwfwf5p5c9/T/org.apache.cordova.console/package"
+        }
+    },
+    "org.apache.cordova.device": {
+        "source": {
+            "type": "local",
+            "path": "/var/folders/3j/djb2_39d16z5t89xbf37vwfwf5p5c9/T/org.apache.cordova.device/package"
+        }
+    }
+}
