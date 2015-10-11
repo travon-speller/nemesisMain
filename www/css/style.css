@@ -10,4 +10,8 @@
   text-align: center;
 }
 
-.carousel
+.carousel {
+    height:500px;
+    width:400px;
+}
+
